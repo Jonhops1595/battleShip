@@ -1,0 +1,79 @@
+Game: One-Way Battleship
+Description: Player needs to guess the location of five different battleships on a 10 X 10 board
+
+These ships include inclulde:
+Carrier(5)
+BattleShip(4)
+Destroyer(3)
+Submarine(3)
+Patrol Boat(2)
+The numbers indicate the amount of spaces the ship takes up.
+
+Like the title says, this is one way battleship. The user will win when they have destroyed all five battleships
+The loser will lose when they run out of turns.
+Turn limit is chosen by difficulty.
+
+Easy: 80 turn limit
+Medieum 60 turn limit
+Hard 40 turn limit
+(Difficulty turn limits subject to change)
+
+Will be a pool of 5-10 preset game configurations
+Could make randomized configs down the line, just want to focus on basic implementation now.
+
+UML Class Diagrams (No hierarchy needed for this game)
+
+Game (Main Model)
+------
+- board : Board
+- status : string
+- numTurns : int
+- numHits : int
+- numMiss : int
+------
++ Status(string status) : string
++ NumHits(int numHits) : int
++ NumMiss(int numMiss) : int
++ Fire(string guess)
++ Initiallize(string difficulty)
+
+
+Board
+------
+charBoard : char[,]
+
+
+BoardPool
+------
+- pool : Board[]
+------
+RandomPool() : Board
+
+
+ConsoleView (just main)
+
+
+Inputs:
+Admin: 
+	New Boards (Board or char[,])
+	Difficulty Settings (string then an int)
+Player:
+	Difficluty Choice (string)
+	Location(string of two chars)
+
+Outputs:
+	Board Output(char[,] into a string; like a matrix)
+		'-' chars are "open waters"
+		'o' chars are confirmed empty spaces
+		'x' chars are hits
+		'C','B','D','S','P'are all ship types
+	Hit or Miss confirmations (string)
+	End of Game confirmations (string)
+
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+C:\Users\jonho\source\repos\BattleShipGUIVersion\bin\Debug\BattleShipGUIVersion.exe.config
+C:\Users\jonho\source\repos\BattleShipGUIVersion\bin\Debug\BattleShipGUIVersion.exe
+C:\Users\jonho\source\repos\BattleShipGUIVersion\bin\Debug\BattleShipGUIVersion.pdb
+C:\Users\jonho\source\repos\BattleShipGUIVersion\obj\Debug\BattleShipGUIVersion.csprojAssemblyReference.cache
+C:\Users\jonho\source\repos\BattleShipGUIVersion\obj\Debug\BattleShipGUIVersion.BattleShip.resources
+C:\Users\jonho\source\repos\BattleShipGUIVersion\obj\Debug\BattleShipGUIVersion.Properties.Resources.resources
+C:\Users\jonho\source\repos\BattleShipGUIVersion\obj\Debug\BattleShipGUIVersion.csproj.GenerateResource.cache
+C:\Users\jonho\source\repos\BattleShipGUIVersion\obj\Debug\BattleShipGUIVersion.exe
+C:\Users\jonho\source\repos\BattleShipGUIVersion\obj\Debug\BattleShipGUIVersion.pdb

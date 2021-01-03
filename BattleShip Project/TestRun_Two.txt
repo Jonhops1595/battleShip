@@ -1,0 +1,755 @@
+Welcome to BattleShip!
+Type in Easy, Medium, or Hard to start playing!
+Easy
+        1 2 3 4 5 6 7 8 9 10
+A       - - - - - - - - - -
+B       - - - - - - - - - -
+C       - - - - - - - - - -
+D       - - - - - - - - - -
+E       - - - - - - - - - -
+F       - - - - - - - - - -
+G       - - - - - - - - - -
+H       - - - - - - - - - -
+I       - - - - - - - - - -
+J       - - - - - - - - - -
+Ships Destoyed:
+Enter target to fire! Format: LetterNumber
+V4
+Bad Format. Enter another target
+J11
+Bad Format. Enter another target
+A1
+You missed!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - - - - -
+B       - - - - - - - - - -
+C       - - - - - - - - - -
+D       - - - - - - - - - -
+E       - - - - - - - - - -
+F       - - - - - - - - - -
+G       - - - - - - - - - -
+H       - - - - - - - - - -
+I       - - - - - - - - - -
+J       - - - - - - - - - -
+Ships Destoyed:
+Enter target to fire! Format: LetterNumber
+A8
+You hit a target!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - - X - -
+B       - - - - - - - - - -
+C       - - - - - - - - - -
+D       - - - - - - - - - -
+E       - - - - - - - - - -
+F       - - - - - - - - - -
+G       - - - - - - - - - -
+H       - - - - - - - - - -
+I       - - - - - - - - - -
+J       - - - - - - - - - -
+Ships Destoyed:
+Enter target to fire! Format: LetterNumber
+A7
+You missed!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X - -
+B       - - - - - - - - - -
+C       - - - - - - - - - -
+D       - - - - - - - - - -
+E       - - - - - - - - - -
+F       - - - - - - - - - -
+G       - - - - - - - - - -
+H       - - - - - - - - - -
+I       - - - - - - - - - -
+J       - - - - - - - - - -
+Ships Destoyed:
+Enter target to fire! Format: LetterNumber
+A9
+You hit a target!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X -
+B       - - - - - - - - - -
+C       - - - - - - - - - -
+D       - - - - - - - - - -
+E       - - - - - - - - - -
+F       - - - - - - - - - -
+G       - - - - - - - - - -
+H       - - - - - - - - - -
+I       - - - - - - - - - -
+J       - - - - - - - - - -
+Ships Destoyed:
+Enter target to fire! Format: LetterNumber
+A10
+You hit a target!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - - - - - - - - -
+C       - - - - - - - - - -
+D       - - - - - - - - - -
+E       - - - - - - - - - -
+F       - - - - - - - - - -
+G       - - - - - - - - - -
+H       - - - - - - - - - -
+I       - - - - - - - - - -
+J       - - - - - - - - - -
+Ships Destoyed:
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+B3
+You missed!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       - - - - - - - - - -
+D       - - - - - - - - - -
+E       - - - - - - - - - -
+F       - - - - - - - - - -
+G       - - - - - - - - - -
+H       - - - - - - - - - -
+I       - - - - - - - - - -
+J       - - - - - - - - - -
+Ships Destoyed:
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+C5
+You missed!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       - - - - 0 - - - - -
+D       - - - - - - - - - -
+E       - - - - - - - - - -
+F       - - - - - - - - - -
+G       - - - - - - - - - -
+H       - - - - - - - - - -
+I       - - - - - - - - - -
+J       - - - - - - - - - -
+Ships Destoyed:
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+E2
+You missed!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       - - - - 0 - - - - -
+D       - - - - - - - - - -
+E       - 0 - - - - - - - -
+F       - - - - - - - - - -
+G       - - - - - - - - - -
+H       - - - - - - - - - -
+I       - - - - - - - - - -
+J       - - - - - - - - - -
+Ships Destoyed:
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+G1
+You missed!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       - - - - 0 - - - - -
+D       - - - - - - - - - -
+E       - 0 - - - - - - - -
+F       - - - - - - - - - -
+G       0 - - - - - - - - -
+H       - - - - - - - - - -
+I       - - - - - - - - - -
+J       - - - - - - - - - -
+Ships Destoyed:
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+H8
+You missed!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       - - - - 0 - - - - -
+D       - - - - - - - - - -
+E       - 0 - - - - - - - -
+F       - - - - - - - - - -
+G       0 - - - - - - - - -
+H       - - - - - - - 0 - -
+I       - - - - - - - - - -
+J       - - - - - - - - - -
+Ships Destoyed:
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+I5
+You missed!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       - - - - 0 - - - - -
+D       - - - - - - - - - -
+E       - 0 - - - - - - - -
+F       - - - - - - - - - -
+G       0 - - - - - - - - -
+H       - - - - - - - 0 - -
+I       - - - - 0 - - - - -
+J       - - - - - - - - - -
+Ships Destoyed:
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+J3
+You missed!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       - - - - 0 - - - - -
+D       - - - - - - - - - -
+E       - 0 - - - - - - - -
+F       - - - - - - - - - -
+G       0 - - - - - - - - -
+H       - - - - - - - 0 - -
+I       - - - - 0 - - - - -
+J       - - 0 - - - - - - -
+Ships Destoyed:
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+J2
+You missed!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       - - - - 0 - - - - -
+D       - - - - - - - - - -
+E       - 0 - - - - - - - -
+F       - - - - - - - - - -
+G       0 - - - - - - - - -
+H       - - - - - - - 0 - -
+I       - - - - 0 - - - - -
+J       - 0 0 - - - - - - -
+Ships Destoyed:
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+F8
+You hit a target!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       - - - - 0 - - - - -
+D       - - - - - - - - - -
+E       - 0 - - - - - - - -
+F       - - - - - - - X - -
+G       0 - - - - - - - - -
+H       - - - - - - - 0 - -
+I       - - - - 0 - - - - -
+J       - 0 0 - - - - - - -
+Ships Destoyed:
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+F9
+You hit a target!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       - - - - 0 - - - - -
+D       - - - - - - - - - -
+E       - 0 - - - - - - - -
+F       - - - - - - - X X -
+G       0 - - - - - - - - -
+H       - - - - - - - 0 - -
+I       - - - - 0 - - - - -
+J       - 0 0 - - - - - - -
+Ships Destoyed:
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+F10
+You hit a target!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       - - - - 0 - - - - -
+D       - - - - - - - - - -
+E       - 0 - - - - - - - -
+F       - - - - - - - X X X
+G       0 - - - - - - - - -
+H       - - - - - - - 0 - -
+I       - - - - 0 - - - - -
+J       - 0 0 - - - - - - -
+Ships Destoyed:
+        Destroyer(3)
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+F7
+You missed!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       - - - - 0 - - - - -
+D       - - - - - - - - - -
+E       - 0 - - - - - - - -
+F       - - - - - - 0 X X X
+G       0 - - - - - - - - -
+H       - - - - - - - 0 - -
+I       - - - - 0 - - - - -
+J       - 0 0 - - - - - - -
+Ships Destoyed:
+        Destroyer(3)
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+D6
+You missed!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       - - - - 0 - - - - -
+D       - - - - - 0 - - - -
+E       - 0 - - - - - - - -
+F       - - - - - - 0 X X X
+G       0 - - - - - - - - -
+H       - - - - - - - 0 - -
+I       - - - - 0 - - - - -
+J       - 0 0 - - - - - - -
+Ships Destoyed:
+        Destroyer(3)
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+D1
+You missed!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       - - - - 0 - - - - -
+D       0 - - - - 0 - - - -
+E       - 0 - - - - - - - -
+F       - - - - - - 0 X X X
+G       0 - - - - - - - - -
+H       - - - - - - - 0 - -
+I       - - - - 0 - - - - -
+J       - 0 0 - - - - - - -
+Ships Destoyed:
+        Destroyer(3)
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+J1
+You missed!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       - - - - 0 - - - - -
+D       0 - - - - 0 - - - -
+E       - 0 - - - - - - - -
+F       - - - - - - 0 X X X
+G       0 - - - - - - - - -
+H       - - - - - - - 0 - -
+I       - - - - 0 - - - - -
+J       0 0 0 - - - - - - -
+Ships Destoyed:
+        Destroyer(3)
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+H4
+You missed!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       - - - - 0 - - - - -
+D       0 - - - - 0 - - - -
+E       - 0 - - - - - - - -
+F       - - - - - - 0 X X X
+G       0 - - - - - - - - -
+H       - - - 0 - - - 0 - -
+I       - - - - 0 - - - - -
+J       0 0 0 - - - - - - -
+Ships Destoyed:
+        Destroyer(3)
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+G4
+You missed!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       - - - - 0 - - - - -
+D       0 - - - - 0 - - - -
+E       - 0 - - - - - - - -
+F       - - - - - - 0 X X X
+G       0 - - 0 - - - - - -
+H       - - - 0 - - - 0 - -
+I       - - - - 0 - - - - -
+J       0 0 0 - - - - - - -
+Ships Destoyed:
+        Destroyer(3)
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+G7
+You missed!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       - - - - 0 - - - - -
+D       0 - - - - 0 - - - -
+E       - 0 - - - - - - - -
+F       - - - - - - 0 X X X
+G       0 - - 0 - - 0 - - -
+H       - - - 0 - - - 0 - -
+I       - - - - 0 - - - - -
+J       0 0 0 - - - - - - -
+Ships Destoyed:
+        Destroyer(3)
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+F3
+You missed!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       - - - - 0 - - - - -
+D       0 - - - - 0 - - - -
+E       - 0 - - - - - - - -
+F       - - 0 - - - 0 X X X
+G       0 - - 0 - - 0 - - -
+H       - - - 0 - - - 0 - -
+I       - - - - 0 - - - - -
+J       0 0 0 - - - - - - -
+Ships Destoyed:
+        Destroyer(3)
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+C1
+You missed!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       0 - - - 0 - - - - -
+D       0 - - - - 0 - - - -
+E       - 0 - - - - - - - -
+F       - - 0 - - - 0 X X X
+G       0 - - 0 - - 0 - - -
+H       - - - 0 - - - 0 - -
+I       - - - - 0 - - - - -
+J       0 0 0 - - - - - - -
+Ships Destoyed:
+        Destroyer(3)
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+D4
+You missed!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       0 - - - 0 - - - - -
+D       0 - - 0 - 0 - - - -
+E       - 0 - - - - - - - -
+F       - - 0 - - - 0 X X X
+G       0 - - 0 - - 0 - - -
+H       - - - 0 - - - 0 - -
+I       - - - - 0 - - - - -
+J       0 0 0 - - - - - - -
+Ships Destoyed:
+        Destroyer(3)
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+E5
+You hit a target!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       0 - - - 0 - - - - -
+D       0 - - 0 - 0 - - - -
+E       - 0 - - X - - - - -
+F       - - 0 - - - 0 X X X
+G       0 - - 0 - - 0 - - -
+H       - - - 0 - - - 0 - -
+I       - - - - 0 - - - - -
+J       0 0 0 - - - - - - -
+Ships Destoyed:
+        Destroyer(3)
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+E4
+You missed!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       0 - - - 0 - - - - -
+D       0 - - 0 - 0 - - - -
+E       - 0 - 0 X - - - - -
+F       - - 0 - - - 0 X X X
+G       0 - - 0 - - 0 - - -
+H       - - - 0 - - - 0 - -
+I       - - - - 0 - - - - -
+J       0 0 0 - - - - - - -
+Ships Destoyed:
+        Destroyer(3)
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+E6
+You missed!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       0 - - - 0 - - - - -
+D       0 - - 0 - 0 - - - -
+E       - 0 - 0 X 0 - - - -
+F       - - 0 - - - 0 X X X
+G       0 - - 0 - - 0 - - -
+H       - - - 0 - - - 0 - -
+I       - - - - 0 - - - - -
+J       0 0 0 - - - - - - -
+Ships Destoyed:
+        Destroyer(3)
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+D5
+You hit a target!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       0 - - - 0 - - - - -
+D       0 - - 0 X 0 - - - -
+E       - 0 - 0 X 0 - - - -
+F       - - 0 - - - 0 X X X
+G       0 - - 0 - - 0 - - -
+H       - - - 0 - - - 0 - -
+I       - - - - 0 - - - - -
+J       0 0 0 - - - - - - -
+Ships Destoyed:
+        Destroyer(3)
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+F5
+You hit a target!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       0 - - - 0 - - - - -
+D       0 - - 0 X 0 - - - -
+E       - 0 - 0 X 0 - - - -
+F       - - 0 - X - 0 X X X
+G       0 - - 0 - - 0 - - -
+H       - - - 0 - - - 0 - -
+I       - - - - 0 - - - - -
+J       0 0 0 - - - - - - -
+Ships Destoyed:
+        Destroyer(3)
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+G5
+You hit a target!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       0 - - - 0 - - - - -
+D       0 - - 0 X 0 - - - -
+E       - 0 - 0 X 0 - - - -
+F       - - 0 - X - 0 X X X
+G       0 - - 0 X - 0 - - -
+H       - - - 0 - - - 0 - -
+I       - - - - 0 - - - - -
+J       0 0 0 - - - - - - -
+Ships Destoyed:
+        Destroyer(3)
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+H5
+You hit a target!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       0 - - - 0 - - - - -
+D       0 - - 0 X 0 - - - -
+E       - 0 - 0 X 0 - - - -
+F       - - 0 - X - 0 X X X
+G       0 - - 0 X - 0 - - -
+H       - - - 0 X - - 0 - -
+I       - - - - 0 - - - - -
+J       0 0 0 - - - - - - -
+Ships Destoyed:
+        Carrier(5)
+        Destroyer(3)
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+I7
+You missed!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - - - - 0 X X X
+B       - - 0 - - - - - - -
+C       0 - - - 0 - - - - -
+D       0 - - 0 X 0 - - - -
+E       - 0 - 0 X 0 - - - -
+F       - - 0 - X - 0 X X X
+G       0 - - 0 X - 0 - - -
+H       - - - 0 X - - 0 - -
+I       - - - - 0 - 0 - - -
+J       0 0 0 - - - - - - -
+Ships Destoyed:
+        Carrier(5)
+        Destroyer(3)
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+A4
+You missed!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - 0 - - 0 X X X
+B       - - 0 - - - - - - -
+C       0 - - - 0 - - - - -
+D       0 - - 0 X 0 - - - -
+E       - 0 - 0 X 0 - - - -
+F       - - 0 - X - 0 X X X
+G       0 - - 0 X - 0 - - -
+H       - - - 0 X - - 0 - -
+I       - - - - 0 - 0 - - -
+J       0 0 0 - - - - - - -
+Ships Destoyed:
+        Carrier(5)
+        Destroyer(3)
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+D8
+You hit a target!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - 0 - - 0 X X X
+B       - - 0 - - - - - - -
+C       0 - - - 0 - - - - -
+D       0 - - 0 X 0 - X - -
+E       - 0 - 0 X 0 - - - -
+F       - - 0 - X - 0 X X X
+G       0 - - 0 X - 0 - - -
+H       - - - 0 X - - 0 - -
+I       - - - - 0 - 0 - - -
+J       0 0 0 - - - - - - -
+Ships Destoyed:
+        Carrier(5)
+        Destroyer(3)
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+D9
+You missed!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - 0 - - 0 X X X
+B       - - 0 - - - - - - -
+C       0 - - - 0 - - - - -
+D       0 - - 0 X 0 - X 0 -
+E       - 0 - 0 X 0 - - - -
+F       - - 0 - X - 0 X X X
+G       0 - - 0 X - 0 - - -
+H       - - - 0 X - - 0 - -
+I       - - - - 0 - 0 - - -
+J       0 0 0 - - - - - - -
+Ships Destoyed:
+        Carrier(5)
+        Destroyer(3)
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+C8
+You missed!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - 0 - - 0 X X X
+B       - - 0 - - - - - - -
+C       0 - - - 0 - - 0 - -
+D       0 - - 0 X 0 - X 0 -
+E       - 0 - 0 X 0 - - - -
+F       - - 0 - X - 0 X X X
+G       0 - - 0 X - 0 - - -
+H       - - - 0 X - - 0 - -
+I       - - - - 0 - 0 - - -
+J       0 0 0 - - - - - - -
+Ships Destoyed:
+        Carrier(5)
+        Destroyer(3)
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+E8
+You missed!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - 0 - - 0 X X X
+B       - - 0 - - - - - - -
+C       0 - - - 0 - - 0 - -
+D       0 - - 0 X 0 - X 0 -
+E       - 0 - 0 X 0 - 0 - -
+F       - - 0 - X - 0 X X X
+G       0 - - 0 X - 0 - - -
+H       - - - 0 X - - 0 - -
+I       - - - - 0 - 0 - - -
+J       0 0 0 - - - - - - -
+Ships Destoyed:
+        Carrier(5)
+        Destroyer(3)
+        Submarine(3)
+Enter target to fire! Format: LetterNumber
+D7
+You hit a target!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - 0 - - 0 X X X
+B       - - 0 - - - - - - -
+C       0 - - - 0 - - 0 - -
+D       0 - - 0 X 0 X X 0 -
+E       - 0 - 0 X 0 - 0 - -
+F       - - 0 - X - 0 X X X
+G       0 - - 0 X - 0 - - -
+H       - - - 0 X - - 0 - -
+I       - - - - 0 - 0 - - -
+J       0 0 0 - - - - - - -
+Ships Destoyed:
+        Carrier(5)
+        Destroyer(3)
+        Submarine(3)
+        Patrol Boat(2)
+Enter target to fire! Format: LetterNumber
+I1
+You hit a target!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - 0 - - 0 X X X
+B       - - 0 - - - - - - -
+C       0 - - - 0 - - 0 - -
+D       0 - - 0 X 0 X X 0 -
+E       - 0 - 0 X 0 - 0 - -
+F       - - 0 - X - 0 X X X
+G       0 - - 0 X - 0 - - -
+H       - - - 0 X - - 0 - -
+I       X - - - 0 - 0 - - -
+J       0 0 0 - - - - - - -
+Ships Destoyed:
+        Carrier(5)
+        Destroyer(3)
+        Submarine(3)
+        Patrol Boat(2)
+Enter target to fire! Format: LetterNumber
+I2
+You hit a target!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - 0 - - 0 X X X
+B       - - 0 - - - - - - -
+C       0 - - - 0 - - 0 - -
+D       0 - - 0 X 0 X X 0 -
+E       - 0 - 0 X 0 - 0 - -
+F       - - 0 - X - 0 X X X
+G       0 - - 0 X - 0 - - -
+H       - - - 0 X - - 0 - -
+I       X X - - 0 - 0 - - -
+J       0 0 0 - - - - - - -
+Ships Destoyed:
+        Carrier(5)
+        Destroyer(3)
+        Submarine(3)
+        Patrol Boat(2)
+Enter target to fire! Format: LetterNumber
+I3
+You hit a target!
+        1 2 3 4 5 6 7 8 9 10
+A       0 - - 0 - - 0 X X X
+B       - - 0 - - - - - - -
+C       0 - - - 0 - - 0 - -
+D       0 - - 0 X 0 X X 0 -
+E       - 0 - 0 X 0 - 0 - -
+F       - - 0 - X - 0 X X X
+G       0 - - 0 X - 0 - - -
+H       - - - 0 X - - 0 - -
+I       X X X - 0 - 0 - - -
+J       0 0 0 - - - - - - -
+Ships Destoyed:
+        Carrier(5)
+        Destroyer(3)
+        Submarine(3)
+        Patrol Boat(2)
+Enter target to fire! Format: LetterNumber
+I4
+You hit a target!
+
+Congrats, you won BattleShip!
+Stats:
+        Number of shots: 44
+        Number of hits: 17
+        Number of misses: 27

@@ -1,0 +1,15 @@
+There have been a couple of updates regarding timers in the BattleShip Gui
+
+There have been two added stats to the stat board.
+Average turn time
+Total game time
+
+Both of these stats work in conjunction with the new timer implemented in the program.
+
+The added timer ticks every 1000 miliseconds (1 second). At every tick, the time updates the new turn timer progress bar.
+The progress bar counts up to 30 seconds.
+Once the 30 seconds limit is hit, the game either fires the current inputed target or the default A1.
+This encourages the player to play the game and to be on their toes.
+
+The timer pauses when viewing the stats screen as to not rush the stat gathering state.
+

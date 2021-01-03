@@ -1,0 +1,4 @@
+EasyLimit =80
+MediumLimit =60
+HardLimit =40
+BoardInput =Default
